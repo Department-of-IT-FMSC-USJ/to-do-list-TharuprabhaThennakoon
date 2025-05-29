@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\bin\Debug\net9.0\to-do-list-TharuprabhaThennakoon.exe
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\bin\Debug\net9.0\to-do-list-TharuprabhaThennakoon.deps.json
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\bin\Debug\net9.0\to-do-list-TharuprabhaThennakoon.runtimeconfig.json
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\bin\Debug\net9.0\to-do-list-TharuprabhaThennakoon.dll
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\bin\Debug\net9.0\to-do-list-TharuprabhaThennakoon.pdb
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\obj\Debug\net9.0\to-do-list-TharuprabhaThennakoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\obj\Debug\net9.0\to-do-list-TharuprabhaThennakoon.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\obj\Debug\net9.0\to-do-list-TharuprabhaThennakoon.AssemblyInfo.cs
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\obj\Debug\net9.0\to-do-list-TharuprabhaThennakoon.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\obj\Debug\net9.0\to-do-list-TharuprabhaThennakoon.sourcelink.json
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\obj\Debug\net9.0\to-do-list-TharuprabhaThennakoon.dll
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\obj\Debug\net9.0\refint\to-do-list-TharuprabhaThennakoon.dll
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\obj\Debug\net9.0\to-do-list-TharuprabhaThennakoon.pdb
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\obj\Debug\net9.0\to-do-list-TharuprabhaThennakoon.genruntimeconfig.cache
+C:\Users\HP\source\repos\ToDoList\to-do-list-TharuprabhaThennakoon\obj\Debug\net9.0\ref\to-do-list-TharuprabhaThennakoon.dll
